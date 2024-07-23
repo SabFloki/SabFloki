@@ -1,7 +1,7 @@
 ### Hi Saga 👋
 
 # 💫 About Me:
-I am a mechanical engineer jumped to IT<br>🔭Thrilled to be coding<br> :lotus_position: Lots to learn<br> Currently tooling with <br> 🎭 Cypress , Playwright - Web Automation<br>⚡Appium - Mobile App Automation<br>📲 Maestro - Mobile App Automation - In Progress 
+I am a mechanical engineer jumped to IT<br>🔭Thrilled to be coding<br> :lotus_position: Lots to learn<br> Currently tooling with <br> 🎭 Playwright,WDIO - Web Automation<br>⚡Appium - Mobile App Automation<br>📲 Maestro - Mobile App Automation - In Progress 
 
 
 # 💻 Tech Stack:
